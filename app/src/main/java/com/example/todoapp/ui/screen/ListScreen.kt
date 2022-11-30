@@ -1,4 +1,5 @@
-package com.example.todoapp.ui
+package com.example.todoapp.ui.screen
+
 
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Column
